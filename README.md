@@ -58,6 +58,8 @@ Vintage speculative paperback mood: domestic still life colliding with outer spa
 
 Full bible (planets, monsters, food, UI, player-facing UAT): [`design/art-bible-hybrid-70-30.md`](design/art-bible-hybrid-70-30.md).
 
+Optional cover-level A/B tracks inspired by Absolute Martian Manhunter and Ultramega (language only, no clones): [`design/reference-directions-amm-ultramega.md`](design/reference-directions-amm-ultramega.md).
+
 ## Direction Notes
 
 The CRT interface studies helped expose what does not fit: the food worlds started to feel like terminal widgets instead of a galaxy worth exploring. Do not fall back to CRT chrome.

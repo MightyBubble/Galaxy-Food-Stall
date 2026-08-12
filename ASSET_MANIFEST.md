@@ -5,6 +5,7 @@
 | File | Purpose |
 |---|---|
 | `design/art-bible-hybrid-70-30.md` | Canonical hybrid art bible: 70% paranoid paperback + 30% 70s psychedelic; planets, monsters, food, UI, UAT |
+| `design/reference-directions-amm-ultramega.md` | Two cover-level reference tracks: Emotion Smoke (AMM) vs Ruin Kaiju (Ultramega) |
 | `design/psychedelic-sci-fi-cover/visual-language.md` | Mode reference for poster / paperback / hybrid prompt shards |
 | `design/psychedelic-sci-fi-cover/SKILL.md` | Generation skill router and quality gate |
 
@@ -19,6 +20,8 @@
 | `concepts/hybrid-70-30/hybrid-filing-eye-encounter-16x9.png` | Hybrid encounter: Filing Eye anomaly |
 | `concepts/hybrid-70-30/hybrid-ledger-orbit-16x9.png` | Hybrid ledger-orbit multi-planet evidence spread |
 | `concepts/hybrid-70-30/hybrid-stall-ledger-ui-16x9.png` | Hybrid UI study: open-book stall ledger / specimen OS |
+| `concepts/reference-directions/ref-dir-A-emotion-smoke-cover-16x9.png` | Cover study: Emotion Smoke track (AMM language) |
+| `concepts/reference-directions/ref-dir-B-ruin-kaiju-cover-16x9.png` | Cover study: Ruin Kaiju track (Ultramega language) |
 
 ## Clean Food Planets
 
