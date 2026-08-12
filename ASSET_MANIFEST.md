@@ -14,6 +14,11 @@
 |---|---|
 | `concepts/seventies-psychedelic-16x9.png` | Main 70s psychedelic poster direction test |
 | `concepts/paranoid-sci-fi-paperback-16x9.png` | Vintage paranoid sci-fi paperback direction test |
+| `concepts/hybrid-70-30/hybrid-beefball-specimen-16x9.png` | Hybrid specimen: beef-ball planet under lens on diner table |
+| `concepts/hybrid-70-30/hybrid-shengjianbao-specimen-16x9.png` | Hybrid specimen: shengjianbao planet with archived cross-section |
+| `concepts/hybrid-70-30/hybrid-filing-eye-encounter-16x9.png` | Hybrid encounter: Filing Eye anomaly |
+| `concepts/hybrid-70-30/hybrid-ledger-orbit-16x9.png` | Hybrid ledger-orbit multi-planet evidence spread |
+| `concepts/hybrid-70-30/hybrid-stall-ledger-ui-16x9.png` | Hybrid UI study: open-book stall ledger / specimen OS |
 
 ## Clean Food Planets
 

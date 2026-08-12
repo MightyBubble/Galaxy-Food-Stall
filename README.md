@@ -18,6 +18,16 @@ High-saturation screenprint energy: liquid orbital bands, radial poster hierarch
 
 Vintage speculative paperback mood: domestic still life colliding with outer space, surveillance geometry, muted paper colors, uncanny calm, and edible worlds treated as impossible evidence.
 
+### Hybrid 70 / 30 Concepts
+
+| Study | Image |
+|---|---|
+| Beef-ball specimen | ![Beef-ball specimen](concepts/hybrid-70-30/hybrid-beefball-specimen-16x9.png) |
+| Shengjianbao specimen | ![Shengjianbao specimen](concepts/hybrid-70-30/hybrid-shengjianbao-specimen-16x9.png) |
+| Filing Eye encounter | ![Filing Eye](concepts/hybrid-70-30/hybrid-filing-eye-encounter-16x9.png) |
+| Ledger orbit | ![Ledger orbit](concepts/hybrid-70-30/hybrid-ledger-orbit-16x9.png) |
+| Stall ledger UI | ![Stall ledger UI](concepts/hybrid-70-30/hybrid-stall-ledger-ui-16x9.png) |
+
 ## Asset Sets
 
 - `assets/food-planets/crt-clean-16x9/` - ten no-interface CRT food planet assets.
