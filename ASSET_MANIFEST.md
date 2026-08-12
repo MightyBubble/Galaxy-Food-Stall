@@ -82,6 +82,18 @@
 | `concepts/batch-dual-style/cosmic-vibe/kv/cosmic-kv-beefball-hero-16x9.png` | Cosmic beef-ball hero KV |
 | `concepts/batch-dual-style/cosmic-vibe/kv/cosmic-kv-stall-vs-giant-16x9.png` | Cosmic stall-vs-giant KV |
 
+## Paperback OS — Key Visuals
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/kv/NOTES.md` | Paperback OS KV index + gate notes |
+| `concepts/paperback-os/kv/pb-kv-title-brand-16x9.png` | Title KV: abstract brand block + one food planet + domestic scale break |
+| `concepts/paperback-os/kv/pb-kv-galaxy-spread-16x9.png` | Galaxy of planetary food worlds as cover spread |
+| `concepts/paperback-os/kv/pb-kv-landing-drama-16x9.png` | Landing drama toward food-planet surface |
+| `concepts/paperback-os/kv/pb-kv-ship-and-world-16x9.png` | Bureaucratic hauler near giant food planet |
+| `concepts/paperback-os/kv/pb-kv-stall-in-orbit-16x9.png` | Food stall perched/floating with planet behind |
+| `concepts/paperback-os/kv/pb-kv-build-colony-16x9.png` | Early colony on food-planet terrain (cover still-life) |
+
 ## Clean Food Planets (historical CRT)
 
 | File | Subject |
