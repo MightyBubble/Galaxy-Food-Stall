@@ -9,6 +9,47 @@
 | `design/psychedelic-sci-fi-cover/visual-language.md` | Mode reference for poster / paperback / hybrid prompt shards |
 | `design/psychedelic-sci-fi-cover/SKILL.md` | Generation skill router and quality gate |
 | `concepts/batch-dual-style/README.md` | Dual-style batch index |
+| `concepts/paperback-os/README.md` | Preferred paperback OS batch: flat print UI + psychedelic corners + planetary close-ups |
+
+## Paperback OS — UI (preferred)
+
+| File | Screen |
+|---|---|
+| `concepts/paperback-os/ui/pb-ui-main-hub-16x9.png` | Main hub |
+| `concepts/paperback-os/ui/pb-ui-galaxy-view-16x9.png` | Galaxy view |
+| `concepts/paperback-os/ui/pb-ui-planet-view-16x9.png` | Planet view |
+| `concepts/paperback-os/ui/pb-ui-planet-landing-16x9.png` | Planet landing |
+| `concepts/paperback-os/ui/pb-ui-facility-build-16x9.png` | Facility build |
+| `concepts/paperback-os/ui/pb-ui-ship-view-16x9.png` | Ship view |
+| `concepts/paperback-os/ui/pb-ui-stall-trade-16x9.png` | Stall / trade |
+| `concepts/paperback-os/ui/pb-ui-encounter-16x9.png` | Encounter |
+| `concepts/paperback-os/ui/pb-ui-system-menu-16x9.png` | System / pause menu |
+
+## Paperback OS — Planet close-ups
+
+| File | Subject |
+|---|---|
+| `concepts/paperback-os/planets-closeup/pb-planet-beef-ball-closeup-16x9.png` | Beef ball |
+| `concepts/paperback-os/planets-closeup/pb-planet-shengjianbao-closeup-16x9.png` | Shengjianbao |
+| `concepts/paperback-os/planets-closeup/pb-planet-pasta-closeup-16x9.png` | Pasta |
+| `concepts/paperback-os/planets-closeup/pb-planet-cheese-closeup-16x9.png` | Cheese |
+| `concepts/paperback-os/planets-closeup/pb-planet-tofu-closeup-16x9.png` | Tofu |
+| `concepts/paperback-os/planets-closeup/pb-planet-century-egg-closeup-16x9.png` | Century egg |
+| `concepts/paperback-os/planets-closeup/pb-planet-fried-potato-closeup-16x9.png` | Fried potato ball |
+| `concepts/paperback-os/planets-closeup/pb-planet-cabbage-closeup-16x9.png` | Cabbage |
+| `concepts/paperback-os/planets-closeup/pb-planet-vinegar-jelly-closeup-16x9.png` | Vinegar jelly |
+| `concepts/paperback-os/planets-closeup/pb-planet-ketchup-closeup-16x9.png` | Ketchup |
+
+## Paperback OS — KV
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/kv/pb-kv-title-brand-16x9.png` | Title / brand KV |
+| `concepts/paperback-os/kv/pb-kv-galaxy-spread-16x9.png` | Galaxy spread KV |
+| `concepts/paperback-os/kv/pb-kv-landing-drama-16x9.png` | Landing drama KV |
+| `concepts/paperback-os/kv/pb-kv-ship-and-world-16x9.png` | Ship and world KV |
+| `concepts/paperback-os/kv/pb-kv-stall-in-orbit-16x9.png` | Stall in orbit KV |
+| `concepts/paperback-os/kv/pb-kv-build-colony-16x9.png` | Colony build KV |
 
 ## Concepts (early direction tests)
 
