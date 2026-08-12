@@ -56,10 +56,28 @@ Prompt shard:
 
 `vintage 1970s speculative paperback cover, paranoid literary science fiction mood, impossible food planet still life, muted nicotine-cream teal oxidized-orange brown-black palette, matte airbrush print, paper grain, halftone, misregistered ink, stark negative space, reality fracture, no real title or author`
 
-## Hybrid
+## Hybrid (Canonical Mix: 70 / 30)
 
-Use `seventies-psychedelic-poster` color intensity with `paranoid-sci-fi-paperback` staging. The result should feel like a lost experimental paperback cover for an edible fake universe.
+**Canonical ratio:** `paranoid-sci-fi-paperback` **70%** + `seventies-psychedelic-poster` **30%**.
+
+Full production bible (planets, monsters, food, UI, UAT): `../art-bible-hybrid-70-30.md`.
+
+What each side contributes:
+
+| Share | Source | Owns |
+|---|---|---|
+| 70% | Paranoid Sci-Fi Paperback | Mood, cover hierarchy, negative space, reality fracture, surveillance/measurement symbols, muted paper field, dry uncanny humor |
+| 30% | 1970s Psychedelic Poster | Local color heat (burnt orange / acid yellow / avocado), one liquid orbital band or soft overprint seam, edible organic contours — never full mandala takeover |
+
+Hard rule: if the image could pass as a concert poster after removing the food planets, the psychedelic share is too high. If it looks like a CRT widget sheet, restart from the paperback base.
+
+Composition recipes for hybrid:
+
+- `domestic-cosmos-heat`
+- `specimen-under-lens`
+- `ledger-orbit`
+- `stall-at-event-horizon`
 
 Prompt shard:
 
-`lost 1970s experimental science-fiction paperback poster, psychedelic screenprint color, paranoid surreal still-life staging, cosmic food planets, liquid orbital bands around an impossible domestic horizon, aged paper grain, offset ink, no real title, no UI`
+`lost 1970s experimental science-fiction paperback cover as primary mood, paranoid literary staging, strong negative space, domestic object vs cosmic food planet, surveillance lens or analog measurement ticks, reality fracture, matte airbrush print, nicotine-cream teal oxidized paper grain, halftone, misregistered ink, secondary 1970s psychedelic poster heat only: limited burnt-orange acid-yellow avocado accent, one liquid orbital band, soft overprint seam, no full mandala takeover, cosmic food planets readable as food and as worlds, no modern UI, no CRT windows, no glossy 3D, no real book titles`

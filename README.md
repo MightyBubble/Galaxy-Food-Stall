@@ -24,6 +24,7 @@ Vintage speculative paperback mood: domestic still life colliding with outer spa
 - `assets/food-planets/crt-interface-16x9/` - ten CRT interface studies generated from the clean assets.
 - `concepts/` - two stronger cover/poster style explorations.
 - `design/psychedelic-sci-fi-cover/` - reusable style rules captured as a local Codex skill draft.
+- `design/art-bible-hybrid-70-30.md` - canonical hybrid art bible (70 paperback / 30 psychedelic).
 
 ## Food Planet Roster
 
@@ -38,14 +39,20 @@ Vintage speculative paperback mood: domestic still life colliding with outer spa
 - Vinegar jelly planet
 - Ketchup planet
 
+## Canonical Direction
+
+**Hybrid 70 / 30** is the production art direction:
+
+- **70% Paranoid Sci-Fi Paperback** — cover hierarchy, uncanny calm, surveillance/measurement symbols, muted paper field, reality fracture.
+- **30% 70s Psychedelic Poster** — local burnt-orange / acid-yellow / avocado heat, one liquid orbital band, edible organic contours.
+
+Full bible (planets, monsters, food, UI, player-facing UAT): [`design/art-bible-hybrid-70-30.md`](design/art-bible-hybrid-70-30.md).
+
 ## Direction Notes
 
-The CRT interface studies helped expose what does not fit: the food worlds started to feel like terminal widgets instead of a galaxy worth exploring. The stronger next direction is likely a hybrid:
+The CRT interface studies helped expose what does not fit: the food worlds started to feel like terminal widgets instead of a galaxy worth exploring. Do not fall back to CRT chrome.
 
-- Use the 70s psychedelic palette and print energy.
-- Use the paranoid sci-fi paperback composition and narrative weirdness.
-- Keep food identity readable through planetary terrain, not labels.
-- Avoid modern UI, glossy 3D food renders, and literal parody.
+Keep food identity readable through planetary terrain, not labels. Avoid modern UI, glossy 3D food renders, and literal parody.
 
 ## License
 

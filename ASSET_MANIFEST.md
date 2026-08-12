@@ -1,5 +1,13 @@
 # Asset Manifest
 
+## Design Docs
+
+| File | Purpose |
+|---|---|
+| `design/art-bible-hybrid-70-30.md` | Canonical hybrid art bible: 70% paranoid paperback + 30% 70s psychedelic; planets, monsters, food, UI, UAT |
+| `design/psychedelic-sci-fi-cover/visual-language.md` | Mode reference for poster / paperback / hybrid prompt shards |
+| `design/psychedelic-sci-fi-cover/SKILL.md` | Generation skill router and quality gate |
+
 ## Concepts
 
 | File | Purpose |
