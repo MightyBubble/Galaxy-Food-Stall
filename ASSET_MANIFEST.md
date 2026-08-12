@@ -21,7 +21,9 @@
 | `concepts/hybrid-70-30/hybrid-ledger-orbit-16x9.png` | Hybrid ledger-orbit multi-planet evidence spread |
 | `concepts/hybrid-70-30/hybrid-stall-ledger-ui-16x9.png` | Hybrid UI study: open-book stall ledger / specimen OS |
 | `concepts/reference-directions/ref-dir-A-emotion-smoke-cover-16x9.png` | Cover study: Emotion Smoke track (AMM language) |
-| `concepts/reference-directions/ref-dir-B-ruin-kaiju-cover-16x9.png` | Cover study: Ruin Kaiju track (Ultramega language) |
+| `concepts/reference-directions/ref-dir-B-blacklight-cosmos-cover-16x9.png` | Cover study: Blacklight Cosmos track (Ultramega COVER language) |
+| `concepts/reference-directions/ref-dir-B-blacklight-citycrush-cover-16x9.png` | Cover study: Blacklight Citycrush track (Ultramega COVER language) |
+| `concepts/reference-directions/_superseded-ref-dir-B-ruin-kaiju-cover-16x9.png` | Superseded wrong-track B study (soup-green ruin gore; do not use) |
 
 ## Clean Food Planets
 
