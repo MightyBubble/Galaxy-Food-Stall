@@ -58,7 +58,11 @@ Vintage speculative paperback mood: domestic still life colliding with outer spa
 
 Full bible (planets, monsters, food, UI, player-facing UAT): [`design/art-bible-hybrid-70-30.md`](design/art-bible-hybrid-70-30.md).
 
-Optional cover-level A/B tracks inspired by Absolute Martian Manhunter and Ultramega (language only, no clones): [`design/reference-directions-amm-ultramega.md`](design/reference-directions-amm-ultramega.md).
+Optional cover-level A/B tracks inspired by Absolute Martian Manhunter and Ultramega (temperament only, no clones, no palette lock): [`design/reference-directions-amm-ultramega.md`](design/reference-directions-amm-ultramega.md).
+
+### Dual-style production batch
+
+Full ten-planet roster + UI + KV in both Hybrid 70/30 and Cosmic-vibe tracks: [`concepts/batch-dual-style/`](concepts/batch-dual-style/).
 
 ## Direction Notes
 
