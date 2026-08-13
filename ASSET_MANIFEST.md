@@ -113,6 +113,18 @@ Locked 2D overhead / Zelda-Stardew / FTL camera. Player sprite seen from above. 
 | `concepts/paperback-os/gameplay-topdown/td-surface-lowg-16x9.png` | Low-g surface: cabbage/crust tiles, salt-shaker lid, sliding food slab, floating cargo |
 | `concepts/paperback-os/gameplay-topdown/td-deep-crust-16x9.png` | Deep crust dungeon: jelly rooms, Filing Eye chamber, corridors, exit-shaft tile |
 
+## Paperback OS — Gameplay diorama (3/4 oblique)
+
+Locked Link's Awakening remake camera language: 3/4 oblique toy-diorama, tilt-shift miniature, full-body characters. Not top-down heads, not side-scroller, not FPS, not cinematic.
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay-diorama/NOTES.md` | Diorama index + camera gate |
+| `concepts/paperback-os/gameplay-diorama/dio-orbit-ring-16x9.png` | 3/4 diorama: stall-astronaut on orbital food-dust ring; giant food planet sphere; glowing hatch; crates |
+| `concepts/paperback-os/gameplay-diorama/dio-atmosphere-16x9.png` | 3/4 diorama: ketchup-storm terraces; wind-pushed suited figure; garnish flocks; landing pad |
+| `concepts/paperback-os/gameplay-diorama/dio-surface-lowg-16x9.png` | 3/4 diorama: cabbage-leaf hills / fried-crust plates; giant salt shaker; character pushing a sliding food slab |
+| `concepts/paperback-os/gameplay-diorama/dio-deep-crust-16x9.png` | 3/4 diorama: century-egg/jelly cave rooms as dollhouse cutaway; Filing Eye; character hauling specimen |
+
 ## Concepts (early direction tests)
 
 | File | Purpose |
