@@ -99,11 +99,15 @@
 
 ## Paperback OS — Top-down gameplay maps
 
-Locked 2D overhead / Zelda-Stardew camera. Player sprite seen from above. Not cinematic side view.
+Locked 2D overhead / Zelda-Stardew / FTL camera. Player sprite seen from above. Not cinematic side view.
 
 | File | Purpose |
 |---|---|
 | `concepts/paperback-os/gameplay-topdown/NOTES.md` | Top-down map index + camera gate |
+| `concepts/paperback-os/gameplay-topdown/td-ship-interior-16x9.png` | Cafeteria-ship floorplan: stall, cold storage, jump core, bunks, archive; player walking |
+| `concepts/paperback-os/gameplay-topdown/td-night-stall-16x9.png` | Night service: overhead kitchen + seats, customer sprites, player carrying a plate, window strip |
+| `concepts/paperback-os/gameplay-topdown/td-route-map-16x9.png` | Printed star-chart nav of roster food planets; next jump highlighted; analog fuel ticks |
+| `concepts/paperback-os/gameplay-topdown/td-layer-select-16x9.png` | Concentric rings (orbit / atmo / surface / deep) with player icon on one ring |
 | `concepts/paperback-os/gameplay-topdown/td-orbit-ring-16x9.png` | Orbit ring map: pasta-planet disc, food-dust ring, overhead EVA, crates, hatch tile |
 | `concepts/paperback-os/gameplay-topdown/td-atmosphere-16x9.png` | Atmosphere biome: ketchup fog tiles, wind arrows, pushed sprite, garnish flocks, center landing |
 | `concepts/paperback-os/gameplay-topdown/td-surface-lowg-16x9.png` | Low-g surface: cabbage/crust tiles, salt-shaker lid, sliding food slab, floating cargo |

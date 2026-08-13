@@ -20,7 +20,7 @@ Primary production look: **Paranoid Sci-Fi Paperback**, with psychedelic energy 
 | `logo/` | EN / ZH wordmarks, emblems, bilingual lockup |
 | `kv-bilingual/` | Brand-first KVs: `GALAXY FOOD STALL` and `银河大排档` |
 | `gameplay/` | Daily loop, layer cross-section, orbit salvage, atmosphere descent, low-g surface, deep crust, night stall, FTL route map |
-| `gameplay-topdown/` | Locked 2D overhead maps: orbit ring, atmosphere biome, low-g surface, deep-crust dungeon |
+| `gameplay-topdown/` | Locked 2D overhead screens: ship floorplan, night stall, route map, layer-select rings, plus orbit / atmo / surface / deep maps |
 
 ## Brand titles
 
