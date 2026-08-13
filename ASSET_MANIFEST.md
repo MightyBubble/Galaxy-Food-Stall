@@ -70,6 +70,16 @@
 | `concepts/paperback-os/kv-bilingual/kv-en-ship-world-16x9.png` | EN ship-and-world KV |
 | `concepts/paperback-os/kv-bilingual/kv-zh-stall-orbit-16x9.png` | ZH stall-in-orbit KV |
 
+## Paperback OS — Gameplay
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay/NOTES.md` | Gameplay concept index + gate notes |
+| `concepts/paperback-os/gameplay/gp-loop-day-night-16x9.png` | Book-spread daily loop: day drop into food planet / night stall service |
+| `concepts/paperback-os/gameplay/gp-layer-cross-section-16x9.png` | Shengjianbao planet vertical cross-section (orbit / atmosphere / surface / crust) |
+| `concepts/paperback-os/gameplay/gp-orbit-salvage-16x9.png` | EVA salvage on parmesan/sauce orbital ring |
+| `concepts/paperback-os/gameplay/gp-atmosphere-descent-16x9.png` | Glide through ketchup-storm atmosphere; shrinking light-ring window |
+
 ## Concepts (early direction tests)
 
 | File | Purpose |
