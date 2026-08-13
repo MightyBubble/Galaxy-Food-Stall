@@ -19,6 +19,7 @@ Primary production look: **Paranoid Sci-Fi Paperback**, with psychedelic energy 
 | `kv/` | Extra title / galaxy / landing / ship / stall / colony key visuals |
 | `logo/` | EN / ZH wordmarks, emblems, bilingual lockup |
 | `kv-bilingual/` | Brand-first KVs: `GALAXY FOOD STALL` and `银河大排档` |
+| `gameplay/` | Daily loop diagram, planet-layer cross-section, orbit salvage, ketchup-storm descent |
 
 ## Brand titles
 
