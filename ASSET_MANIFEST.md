@@ -51,6 +51,25 @@
 | `concepts/paperback-os/kv/pb-kv-stall-in-orbit-16x9.png` | Stall in orbit KV |
 | `concepts/paperback-os/kv/pb-kv-build-colony-16x9.png` | Colony build KV |
 
+## Paperback OS — Logo (EN / ZH)
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/logo/logo-en-wordmark-16x9.png` | English wordmark: GALAXY FOOD STALL |
+| `concepts/paperback-os/logo/logo-zh-wordmark-16x9.png` | Chinese wordmark: 银河大排档 |
+| `concepts/paperback-os/logo/logo-en-emblem-16x9.png` | English emblem badge |
+| `concepts/paperback-os/logo/logo-zh-emblem-16x9.png` | Chinese emblem badge |
+| `concepts/paperback-os/logo/logo-bilingual-lockup-16x9.png` | Bilingual lockup sheet |
+
+## Paperback OS — Bilingual brand KVs
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/kv-bilingual/kv-en-title-16x9.png` | EN title KV: GALAXY FOOD STALL |
+| `concepts/paperback-os/kv-bilingual/kv-zh-title-16x9.png` | ZH title KV: 银河大排档 |
+| `concepts/paperback-os/kv-bilingual/kv-en-ship-world-16x9.png` | EN ship-and-world KV |
+| `concepts/paperback-os/kv-bilingual/kv-zh-stall-orbit-16x9.png` | ZH stall-in-orbit KV |
+
 ## Concepts (early direction tests)
 
 | File | Purpose |

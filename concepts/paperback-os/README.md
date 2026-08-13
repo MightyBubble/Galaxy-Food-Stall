@@ -17,3 +17,12 @@ Primary production look: **Paranoid Sci-Fi Paperback**, with psychedelic energy 
 | `ui/` | Main hub, galaxy, planet view, landing, facility build, ship, stall trade, encounter, system menu |
 | `planets-closeup/` | Ten roster planets as starfield close-ups |
 | `kv/` | Extra title / galaxy / landing / ship / stall / colony key visuals |
+| `logo/` | EN / ZH wordmarks, emblems, bilingual lockup |
+| `kv-bilingual/` | Brand-first KVs: `GALAXY FOOD STALL` and `银河大排档` |
+
+## Brand titles
+
+| Locale | Title |
+|---|---|
+| EN | GALAXY FOOD STALL |
+| ZH | 银河大排档 |
