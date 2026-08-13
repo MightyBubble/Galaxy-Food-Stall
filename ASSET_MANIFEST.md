@@ -1,13 +1,219 @@
 # Asset Manifest
 
-## Concepts
+## Design Docs
+
+| File | Purpose |
+|---|---|
+| `design/art-bible-hybrid-70-30.md` | Canonical hybrid art bible: 70% paranoid paperback + 30% 70s psychedelic; planets, monsters, food, UI, UAT |
+| `design/reference-directions-amm-ultramega.md` | Cover-level reference tracks: Emotion Smoke (AMM) vs Blacklight Cosmos temperament (Ultramega covers; vibe not palette lock) |
+| `design/psychedelic-sci-fi-cover/visual-language.md` | Mode reference for poster / paperback / hybrid prompt shards |
+| `design/psychedelic-sci-fi-cover/SKILL.md` | Generation skill router and quality gate |
+| `concepts/batch-dual-style/README.md` | Dual-style batch index |
+| `concepts/paperback-os/README.md` | Preferred paperback OS batch: flat print UI + psychedelic corners + planetary close-ups |
+
+## Paperback OS — UI (preferred)
+
+| File | Screen |
+|---|---|
+| `concepts/paperback-os/ui/pb-ui-main-hub-16x9.png` | Main hub |
+| `concepts/paperback-os/ui/pb-ui-galaxy-view-16x9.png` | Galaxy view |
+| `concepts/paperback-os/ui/pb-ui-planet-view-16x9.png` | Planet view |
+| `concepts/paperback-os/ui/pb-ui-planet-landing-16x9.png` | Planet landing |
+| `concepts/paperback-os/ui/pb-ui-facility-build-16x9.png` | Facility build |
+| `concepts/paperback-os/ui/pb-ui-ship-view-16x9.png` | Ship view |
+| `concepts/paperback-os/ui/pb-ui-stall-trade-16x9.png` | Stall / trade |
+| `concepts/paperback-os/ui/pb-ui-encounter-16x9.png` | Encounter |
+| `concepts/paperback-os/ui/pb-ui-system-menu-16x9.png` | System / pause menu |
+
+## Paperback OS — Planet close-ups
+
+| File | Subject |
+|---|---|
+| `concepts/paperback-os/planets-closeup/pb-planet-beef-ball-closeup-16x9.png` | Beef ball |
+| `concepts/paperback-os/planets-closeup/pb-planet-shengjianbao-closeup-16x9.png` | Shengjianbao |
+| `concepts/paperback-os/planets-closeup/pb-planet-pasta-closeup-16x9.png` | Pasta |
+| `concepts/paperback-os/planets-closeup/pb-planet-cheese-closeup-16x9.png` | Cheese |
+| `concepts/paperback-os/planets-closeup/pb-planet-tofu-closeup-16x9.png` | Tofu |
+| `concepts/paperback-os/planets-closeup/pb-planet-century-egg-closeup-16x9.png` | Century egg |
+| `concepts/paperback-os/planets-closeup/pb-planet-fried-potato-closeup-16x9.png` | Fried potato ball |
+| `concepts/paperback-os/planets-closeup/pb-planet-cabbage-closeup-16x9.png` | Cabbage |
+| `concepts/paperback-os/planets-closeup/pb-planet-vinegar-jelly-closeup-16x9.png` | Vinegar jelly |
+| `concepts/paperback-os/planets-closeup/pb-planet-ketchup-closeup-16x9.png` | Ketchup |
+
+## Paperback OS — KV
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/kv/pb-kv-title-brand-16x9.png` | Title / brand KV |
+| `concepts/paperback-os/kv/pb-kv-galaxy-spread-16x9.png` | Galaxy spread KV |
+| `concepts/paperback-os/kv/pb-kv-landing-drama-16x9.png` | Landing drama KV |
+| `concepts/paperback-os/kv/pb-kv-ship-and-world-16x9.png` | Ship and world KV |
+| `concepts/paperback-os/kv/pb-kv-stall-in-orbit-16x9.png` | Stall in orbit KV |
+| `concepts/paperback-os/kv/pb-kv-build-colony-16x9.png` | Colony build KV |
+
+## Paperback OS — Logo (EN / ZH)
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/logo/logo-en-wordmark-16x9.png` | English wordmark: GALAXY FOOD STALL |
+| `concepts/paperback-os/logo/logo-zh-wordmark-16x9.png` | Chinese wordmark: 银河大排档 |
+| `concepts/paperback-os/logo/logo-en-emblem-16x9.png` | English emblem badge |
+| `concepts/paperback-os/logo/logo-zh-emblem-16x9.png` | Chinese emblem badge |
+| `concepts/paperback-os/logo/logo-bilingual-lockup-16x9.png` | Bilingual lockup sheet |
+
+## Paperback OS — Gameplay concepts
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay/gp-loop-day-night-16x9.png` | Day harvest / night stall loop spread |
+| `concepts/paperback-os/gameplay/gp-layer-cross-section-16x9.png` | Planet layer cross-section |
+| `concepts/paperback-os/gameplay/gp-orbit-salvage-16x9.png` | Orbit salvage |
+| `concepts/paperback-os/gameplay/gp-atmosphere-descent-16x9.png` | Atmosphere descent |
+| `concepts/paperback-os/gameplay/gp-lowg-surface-16x9.png` | Low-gravity surface |
+| `concepts/paperback-os/gameplay/gp-deep-crust-16x9.png` | Deep crust harvest |
+| `concepts/paperback-os/gameplay/gp-night-stall-service-16x9.png` | Night stall service |
+| `concepts/paperback-os/gameplay/gp-ftl-route-map-16x9.png` | Route / jump map |
+
+## Paperback OS — Bilingual brand KVs
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/kv-bilingual/kv-en-title-16x9.png` | EN title KV: GALAXY FOOD STALL |
+| `concepts/paperback-os/kv-bilingual/kv-zh-title-16x9.png` | ZH title KV: 银河大排档 |
+| `concepts/paperback-os/kv-bilingual/kv-en-ship-world-16x9.png` | EN ship-and-world KV |
+| `concepts/paperback-os/kv-bilingual/kv-zh-stall-orbit-16x9.png` | ZH stall-in-orbit KV |
+
+## Paperback OS — Gameplay
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay/NOTES.md` | Gameplay concept index + gate notes |
+| `concepts/paperback-os/gameplay/gp-loop-day-night-16x9.png` | Book-spread daily loop: day drop into food planet / night stall service |
+| `concepts/paperback-os/gameplay/gp-layer-cross-section-16x9.png` | Shengjianbao planet vertical cross-section (orbit / atmosphere / surface / crust) |
+| `concepts/paperback-os/gameplay/gp-orbit-salvage-16x9.png` | EVA salvage on parmesan/sauce orbital ring |
+| `concepts/paperback-os/gameplay/gp-atmosphere-descent-16x9.png` | Glide through ketchup-storm atmosphere; shrinking light-ring window |
+| `concepts/paperback-os/gameplay/gp-lowg-surface-16x9.png` | Low-g surface: bounce on potato-crust / cabbage terrain; giant salt shaker; floating cargo |
+| `concepts/paperback-os/gameplay/gp-deep-crust-16x9.png` | Deep crust dive: jelly/century-egg geology; Filing Eye; hauling a heavy specimen |
+| `concepts/paperback-os/gameplay/gp-night-stall-service-16x9.png` | Night stall service: cramped diner, harvest dishes, ledger/punch cards, warm light vs void |
+| `concepts/paperback-os/gameplay/gp-ftl-route-map-16x9.png` | Printed FTL star chart of roster food planets; fuel ticks, risk glyphs, next-jump choice |
+
+## Paperback OS — Top-down gameplay maps
+
+Locked 2D overhead / Zelda-Stardew / FTL camera. Player sprite seen from above. Not cinematic side view.
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay-topdown/NOTES.md` | Top-down map index + camera gate |
+| `concepts/paperback-os/gameplay-topdown/td-ship-interior-16x9.png` | Cafeteria-ship floorplan: stall, cold storage, jump core, bunks, archive; player walking |
+| `concepts/paperback-os/gameplay-topdown/td-night-stall-16x9.png` | Night service: overhead kitchen + seats, customer sprites, player carrying a plate, window strip |
+| `concepts/paperback-os/gameplay-topdown/td-route-map-16x9.png` | Printed star-chart nav of roster food planets; next jump highlighted; analog fuel ticks |
+| `concepts/paperback-os/gameplay-topdown/td-layer-select-16x9.png` | Concentric rings (orbit / atmo / surface / deep) with player icon on one ring |
+| `concepts/paperback-os/gameplay-topdown/td-orbit-ring-16x9.png` | Orbit ring map: pasta-planet disc, food-dust ring, overhead EVA, crates, hatch tile |
+| `concepts/paperback-os/gameplay-topdown/td-atmosphere-16x9.png` | Atmosphere biome: ketchup fog tiles, wind arrows, pushed sprite, garnish flocks, center landing |
+| `concepts/paperback-os/gameplay-topdown/td-surface-lowg-16x9.png` | Low-g surface: cabbage/crust tiles, salt-shaker lid, sliding food slab, floating cargo |
+| `concepts/paperback-os/gameplay-topdown/td-deep-crust-16x9.png` | Deep crust dungeon: jelly rooms, Filing Eye chamber, corridors, exit-shaft tile |
+
+## Paperback OS — Gameplay diorama (3/4 oblique)
+
+Locked Link's Awakening remake camera language: 3/4 oblique toy-diorama, tilt-shift miniature, full-body characters. Not top-down heads, not side-scroller, not FPS, not cinematic.
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay-diorama/NOTES.md` | Diorama index + camera gate |
+| `concepts/paperback-os/gameplay-diorama/dio-ship-interior-16x9.png` | 3/4 toy-boat cutaway: stall, cold cabinets, jump core, bunks; player walking with readable face |
+| `concepts/paperback-os/gameplay-diorama/dio-night-stall-16x9.png` | 3/4 night-service theater: seats, player carrying a plate, warm lamp vs space window |
+| `concepts/paperback-os/gameplay-diorama/dio-layer-select-16x9.png` | 3/4 layered-cake planet (orbit / atmo / surface / deep cutaway) with tiny player on the surface |
+| `concepts/paperback-os/gameplay-diorama/dio-route-table-16x9.png` | Printed star chart as a flat paper overlay on the diorama chart table; not gameplay camera |
+| `concepts/paperback-os/gameplay-diorama/dio-orbit-ring-16x9.png` | 3/4 diorama: stall-astronaut on orbital food-dust ring; giant food planet sphere; glowing hatch; crates |
+| `concepts/paperback-os/gameplay-diorama/dio-atmosphere-16x9.png` | 3/4 diorama: ketchup-storm terraces; wind-pushed suited figure; garnish flocks; landing pad |
+| `concepts/paperback-os/gameplay-diorama/dio-surface-lowg-16x9.png` | 3/4 diorama: cabbage-leaf hills / fried-crust plates; giant salt shaker; character pushing a sliding food slab |
+| `concepts/paperback-os/gameplay-diorama/dio-deep-crust-16x9.png` | 3/4 diorama: century-egg/jelly cave rooms as dollhouse cutaway; Filing Eye; character hauling specimen |
+
+## Concepts (early direction tests)
 
 | File | Purpose |
 |---|---|
 | `concepts/seventies-psychedelic-16x9.png` | Main 70s psychedelic poster direction test |
 | `concepts/paranoid-sci-fi-paperback-16x9.png` | Vintage paranoid sci-fi paperback direction test |
+| `concepts/hybrid-70-30/hybrid-beefball-specimen-16x9.png` | Hybrid specimen: beef-ball planet under lens on diner table |
+| `concepts/hybrid-70-30/hybrid-shengjianbao-specimen-16x9.png` | Hybrid specimen: shengjianbao planet with archived cross-section |
+| `concepts/hybrid-70-30/hybrid-filing-eye-encounter-16x9.png` | Hybrid encounter: Filing Eye anomaly |
+| `concepts/hybrid-70-30/hybrid-ledger-orbit-16x9.png` | Hybrid ledger-orbit multi-planet evidence spread |
+| `concepts/hybrid-70-30/hybrid-stall-ledger-ui-16x9.png` | Hybrid UI study: open-book stall ledger / specimen OS |
+| `concepts/reference-directions/ref-dir-A-emotion-smoke-cover-16x9.png` | Cover study: Emotion Smoke track (AMM language) |
+| `concepts/reference-directions/ref-dir-B-blacklight-cosmos-cover-16x9.png` | Cover study: Blacklight Cosmos track (Ultramega COVER temperament) |
+| `concepts/reference-directions/ref-dir-B-blacklight-citycrush-cover-16x9.png` | Cover study: Blacklight Citycrush track (Ultramega COVER temperament) |
+| `concepts/reference-directions/_superseded-ref-dir-B-ruin-kaiju-cover-16x9.png` | Superseded wrong-track B study (do not use) |
 
-## Clean Food Planets
+## Dual-Style Batch — Hybrid 70/30 Planets
+
+| File | Subject |
+|---|---|
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-beef-ball-planet-16x9.png` | Beef ball |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-shengjianbao-planet-16x9.png` | Shengjianbao |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-pasta-planet-16x9.png` | Pasta |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-cheese-planet-16x9.png` | Cheese |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-tofu-planet-16x9.png` | Tofu |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-century-egg-planet-16x9.png` | Century egg |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-fried-potato-ball-planet-16x9.png` | Fried potato ball |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-cabbage-planet-16x9.png` | Cabbage |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-vinegar-jelly-planet-16x9.png` | Vinegar jelly |
+| `concepts/batch-dual-style/hybrid-70-30/planets/hybrid-ketchup-planet-16x9.png` | Ketchup |
+
+## Dual-Style Batch — Cosmic Vibe Planets
+
+| File | Subject |
+|---|---|
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-beef-ball-planet-16x9.png` | Beef ball |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-shengjianbao-planet-16x9.png` | Shengjianbao |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-pasta-planet-16x9.png` | Pasta |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-cheese-planet-16x9.png` | Cheese |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-tofu-planet-16x9.png` | Tofu |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-century-egg-planet-16x9.png` | Century egg |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-fried-potato-ball-planet-16x9.png` | Fried potato ball |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-cabbage-planet-16x9.png` | Cabbage |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-vinegar-jelly-planet-16x9.png` | Vinegar jelly |
+| `concepts/batch-dual-style/cosmic-vibe/planets/cosmic-ketchup-planet-16x9.png` | Ketchup |
+
+## Dual-Style Batch — UI
+
+| File | Purpose |
+|---|---|
+| `concepts/batch-dual-style/hybrid-70-30/ui/hybrid-ui-galaxy-map-16x9.png` | Hybrid galaxy map (book spread) |
+| `concepts/batch-dual-style/hybrid-70-30/ui/hybrid-ui-planet-specimen-16x9.png` | Hybrid planet specimen view |
+| `concepts/batch-dual-style/hybrid-70-30/ui/hybrid-ui-stall-ledger-16x9.png` | Hybrid stall ledger |
+| `concepts/batch-dual-style/hybrid-70-30/ui/hybrid-ui-encounter-16x9.png` | Hybrid encounter specimen view |
+| `concepts/batch-dual-style/cosmic-vibe/ui/cosmic-ui-galaxy-map-16x9.png` | Cosmic galaxy map |
+| `concepts/batch-dual-style/cosmic-vibe/ui/cosmic-ui-encounter-16x9.png` | Cosmic encounter panel |
+| `concepts/batch-dual-style/cosmic-vibe/ui/cosmic-ui-stall-panel-16x9.png` | Cosmic stall panel |
+| `concepts/batch-dual-style/cosmic-vibe/ui/cosmic-ui-planet-inspect-16x9.png` | Cosmic planet inspect panel |
+
+## Dual-Style Batch — KV
+
+| File | Purpose |
+|---|---|
+| `concepts/batch-dual-style/hybrid-70-30/kv/hybrid-kv-title-16x9.png` | Hybrid title KV |
+| `concepts/batch-dual-style/hybrid-70-30/kv/hybrid-kv-feast-cosmos-16x9.png` | Hybrid feast-cosmos KV |
+| `concepts/batch-dual-style/hybrid-70-30/kv/hybrid-kv-stall-horizon-16x9.png` | Hybrid stall-at-void-horizon KV |
+| `concepts/batch-dual-style/hybrid-70-30/kv/hybrid-kv-brand-mark-16x9.png` | Hybrid brand-first KV |
+| `concepts/batch-dual-style/cosmic-vibe/kv/cosmic-kv-title-16x9.png` | Cosmic title KV (no readable marks) |
+| `concepts/batch-dual-style/cosmic-vibe/kv/cosmic-kv-hero-planet-16x9.png` | Cosmic hero planet KV |
+| `concepts/batch-dual-style/cosmic-vibe/kv/cosmic-kv-beefball-hero-16x9.png` | Cosmic beef-ball hero KV |
+| `concepts/batch-dual-style/cosmic-vibe/kv/cosmic-kv-stall-vs-giant-16x9.png` | Cosmic stall-vs-giant KV |
+
+## Paperback OS — Key Visuals
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/kv/NOTES.md` | Paperback OS KV index + gate notes |
+| `concepts/paperback-os/kv/pb-kv-title-brand-16x9.png` | Title KV: abstract brand block + one food planet + domestic scale break |
+| `concepts/paperback-os/kv/pb-kv-galaxy-spread-16x9.png` | Galaxy of planetary food worlds as cover spread |
+| `concepts/paperback-os/kv/pb-kv-landing-drama-16x9.png` | Landing drama toward food-planet surface |
+| `concepts/paperback-os/kv/pb-kv-ship-and-world-16x9.png` | Bureaucratic hauler near giant food planet |
+| `concepts/paperback-os/kv/pb-kv-stall-in-orbit-16x9.png` | Food stall perched/floating with planet behind |
+| `concepts/paperback-os/kv/pb-kv-build-colony-16x9.png` | Early colony on food-planet terrain (cover still-life) |
+
+## Clean Food Planets (historical CRT)
 
 | File | Subject |
 |---|---|
@@ -22,7 +228,7 @@
 | `assets/food-planets/crt-clean-16x9/vinegar-jelly-planet.png` | Vinegar jelly planet |
 | `assets/food-planets/crt-clean-16x9/ketchup-planet.png` | Ketchup planet |
 
-## CRT Interface Studies
+## CRT Interface Studies (historical; do not extend)
 
 | File | Subject |
 |---|---|

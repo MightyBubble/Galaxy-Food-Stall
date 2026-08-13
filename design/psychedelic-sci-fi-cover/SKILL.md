@@ -11,7 +11,7 @@ Select one mode before generation:
 
 - `seventies-psychedelic-poster`: use for hot 1970s psychedelic poster energy, liquid orbital forms, screenprint color separation, food planets, and playful cosmic abundance.
 - `paranoid-sci-fi-paperback`: use for vintage speculative paperback cover energy associated with Philip K. Dick themes: unstable reality, artificial worlds, surveillance, identity fracture, banal objects made cosmic, and uneasy deadpan humor.
-- `hybrid`: use only when the user explicitly wants both in one image. Keep the poster palette from `seventies-psychedelic-poster` and the narrative staging from `paranoid-sci-fi-paperback`.
+- `hybrid`: default production mix for Galaxy Food Stall. Use `paranoid-sci-fi-paperback` for **70%** (mood, staging, negative space, reality fracture, muted paper field) and `seventies-psychedelic-poster` for **30%** (local color heat, one liquid orbital band, organic edible contours). Do **not** invert this into poster-first. Read `../art-bible-hybrid-70-30.md` before generating planets, monsters, food props, or UI concepts.
 
 Do not copy a specific book cover, illustrator, author portrait, publisher mark, title, or typography layout. Use broad era and genre language.
 
@@ -27,7 +27,7 @@ Do not copy a specific book cover, illustrator, author portrait, publisher mark,
 
 1. Lock the mode and ratio.
 2. Lock the food roster and whether the image is one hero planet, many planets, or a cover-like tableau.
-3. Read `references/visual-language.md` for the selected mode.
+3. Read `visual-language.md` for the selected mode. If mode is `hybrid`, also read `../art-bible-hybrid-70-30.md`.
 4. Compile a prompt using five compact parts:
    - scene and roster
    - composition and visual hierarchy
@@ -44,6 +44,7 @@ Do not copy a specific book cover, illustrator, author portrait, publisher mark,
 - Color is intentional: limited palette, strong contrast, no random rainbow mush.
 - Printed texture is structural: halftone, screenprint edges, misregistration, paper grain, ink pooling, and aged stock are visible but do not obscure the subject.
 - `paranoid-sci-fi-paperback` mode contains at least one reality-instability device: impossible scale, duplicated object logic, surveillance geometry, synthetic horizon, fractured room/planet relation, or a mundane object made cosmic.
+- `hybrid` mode keeps paperback calm as the first read; psychedelic heat stays local; no full mandala / rainbow takeover; no CRT window UI language.
 - No direct Philip K. Dick name, real book title, real cover recreation, publisher logo, watermark, unreadable text soup, glossy 3D, photoreal food macro, anime mascot, modern sci-fi HUD, or CRT window interface unless the user asks for it.
 
 ## Output
