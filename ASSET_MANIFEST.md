@@ -97,6 +97,18 @@
 | `concepts/paperback-os/gameplay/gp-night-stall-service-16x9.png` | Night stall service: cramped diner, harvest dishes, ledger/punch cards, warm light vs void |
 | `concepts/paperback-os/gameplay/gp-ftl-route-map-16x9.png` | Printed FTL star chart of roster food planets; fuel ticks, risk glyphs, next-jump choice |
 
+## Paperback OS — Top-down gameplay maps
+
+Locked 2D overhead / Zelda-Stardew camera. Player sprite seen from above. Not cinematic side view.
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay-topdown/NOTES.md` | Top-down map index + camera gate |
+| `concepts/paperback-os/gameplay-topdown/td-orbit-ring-16x9.png` | Orbit ring map: pasta-planet disc, food-dust ring, overhead EVA, crates, hatch tile |
+| `concepts/paperback-os/gameplay-topdown/td-atmosphere-16x9.png` | Atmosphere biome: ketchup fog tiles, wind arrows, pushed sprite, garnish flocks, center landing |
+| `concepts/paperback-os/gameplay-topdown/td-surface-lowg-16x9.png` | Low-g surface: cabbage/crust tiles, salt-shaker lid, sliding food slab, floating cargo |
+| `concepts/paperback-os/gameplay-topdown/td-deep-crust-16x9.png` | Deep crust dungeon: jelly rooms, Filing Eye chamber, corridors, exit-shaft tile |
+
 ## Concepts (early direction tests)
 
 | File | Purpose |
