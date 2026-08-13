@@ -79,6 +79,10 @@
 | `concepts/paperback-os/gameplay/gp-layer-cross-section-16x9.png` | Shengjianbao planet vertical cross-section (orbit / atmosphere / surface / crust) |
 | `concepts/paperback-os/gameplay/gp-orbit-salvage-16x9.png` | EVA salvage on parmesan/sauce orbital ring |
 | `concepts/paperback-os/gameplay/gp-atmosphere-descent-16x9.png` | Glide through ketchup-storm atmosphere; shrinking light-ring window |
+| `concepts/paperback-os/gameplay/gp-lowg-surface-16x9.png` | Low-g surface: bounce on potato-crust / cabbage terrain; giant salt shaker; floating cargo |
+| `concepts/paperback-os/gameplay/gp-deep-crust-16x9.png` | Deep crust dive: jelly/century-egg geology; Filing Eye; hauling a heavy specimen |
+| `concepts/paperback-os/gameplay/gp-night-stall-service-16x9.png` | Night stall service: cramped diner, harvest dishes, ledger/punch cards, warm light vs void |
+| `concepts/paperback-os/gameplay/gp-ftl-route-map-16x9.png` | Printed FTL star chart of roster food planets; fuel ticks, risk glyphs, next-jump choice |
 
 ## Concepts (early direction tests)
 
