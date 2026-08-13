@@ -120,6 +120,10 @@ Locked Link's Awakening remake camera language: 3/4 oblique toy-diorama, tilt-sh
 | File | Purpose |
 |---|---|
 | `concepts/paperback-os/gameplay-diorama/NOTES.md` | Diorama index + camera gate |
+| `concepts/paperback-os/gameplay-diorama/dio-ship-interior-16x9.png` | 3/4 toy-boat cutaway: stall, cold cabinets, jump core, bunks; player walking with readable face |
+| `concepts/paperback-os/gameplay-diorama/dio-night-stall-16x9.png` | 3/4 night-service theater: seats, player carrying a plate, warm lamp vs space window |
+| `concepts/paperback-os/gameplay-diorama/dio-layer-select-16x9.png` | 3/4 layered-cake planet (orbit / atmo / surface / deep cutaway) with tiny player on the surface |
+| `concepts/paperback-os/gameplay-diorama/dio-route-table-16x9.png` | Printed star chart as a flat paper overlay on the diorama chart table; not gameplay camera |
 | `concepts/paperback-os/gameplay-diorama/dio-orbit-ring-16x9.png` | 3/4 diorama: stall-astronaut on orbital food-dust ring; giant food planet sphere; glowing hatch; crates |
 | `concepts/paperback-os/gameplay-diorama/dio-atmosphere-16x9.png` | 3/4 diorama: ketchup-storm terraces; wind-pushed suited figure; garnish flocks; landing pad |
 | `concepts/paperback-os/gameplay-diorama/dio-surface-lowg-16x9.png` | 3/4 diorama: cabbage-leaf hills / fried-crust plates; giant salt shaker; character pushing a sliding food slab |
