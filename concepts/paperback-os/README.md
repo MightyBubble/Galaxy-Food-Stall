@@ -21,7 +21,7 @@ Primary production look: **Paranoid Sci-Fi Paperback**, with psychedelic energy 
 | `kv-bilingual/` | Brand-first KVs: `GALAXY FOOD STALL` and `银河大排档` |
 | `gameplay/` | Daily loop, layer cross-section, orbit salvage, atmosphere descent, low-g surface, deep crust, night stall, FTL route map |
 | `gameplay-topdown/` | Locked 2D overhead screens: ship floorplan, night stall, route map, layer-select rings, plus orbit / atmo / surface / deep maps |
-| `gameplay-diorama/` | Locked 3/4 oblique toy-diorama (Link's Awakening remake camera language): orbit ring, ketchup-storm terraces, low-g surface, deep-crust cutaway |
+| `gameplay-diorama/` | Locked 3/4 oblique toy-diorama (Link's Awakening remake camera): ship cutaway, night stall theater, layered-cake depth, printed route table, plus orbit / atmo / surface / deep maps |
 
 ## Brand titles
 
