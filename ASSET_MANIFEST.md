@@ -61,6 +61,19 @@
 | `concepts/paperback-os/logo/logo-zh-emblem-16x9.png` | Chinese emblem badge |
 | `concepts/paperback-os/logo/logo-bilingual-lockup-16x9.png` | Bilingual lockup sheet |
 
+## Paperback OS — Gameplay concepts
+
+| File | Purpose |
+|---|---|
+| `concepts/paperback-os/gameplay/gp-loop-day-night-16x9.png` | Day harvest / night stall loop spread |
+| `concepts/paperback-os/gameplay/gp-layer-cross-section-16x9.png` | Planet layer cross-section |
+| `concepts/paperback-os/gameplay/gp-orbit-salvage-16x9.png` | Orbit salvage |
+| `concepts/paperback-os/gameplay/gp-atmosphere-descent-16x9.png` | Atmosphere descent |
+| `concepts/paperback-os/gameplay/gp-lowg-surface-16x9.png` | Low-gravity surface |
+| `concepts/paperback-os/gameplay/gp-deep-crust-16x9.png` | Deep crust harvest |
+| `concepts/paperback-os/gameplay/gp-night-stall-service-16x9.png` | Night stall service |
+| `concepts/paperback-os/gameplay/gp-ftl-route-map-16x9.png` | Route / jump map |
+
 ## Paperback OS — Bilingual brand KVs
 
 | File | Purpose |

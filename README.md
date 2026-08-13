@@ -64,6 +64,8 @@ Optional cover-level A/B tracks inspired by Absolute Martian Manhunter and Ultra
 
 Full ten-planet roster + UI + KV in both Hybrid 70/30 and Cosmic-vibe tracks: [`concepts/batch-dual-style/`](concepts/batch-dual-style/).
 
+Gameplay loop (Dave-like day harvest + night stall, FTL-like routes, space layers): [`design/gameplay-loop-space-stall.md`](design/gameplay-loop-space-stall.md).
+
 ### Paperback OS batch (current preferred)
 
 Flat printed UI with psychedelic corner frames, planetary food-world close-ups, and more KVs: [`concepts/paperback-os/`](concepts/paperback-os/).
